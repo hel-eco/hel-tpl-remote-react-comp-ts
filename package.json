@@ -5,19 +5,19 @@
   "module": "hel_proxy_es/entry.js",
   "types": "lib/entrance/libTypes.ts",
   "unpkg": "hel_dist/index.html",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "dependencies": {
     "hel-iso": "^4.1.0",
-    "hel-lib-proxy": "^4.2.0",
-    "hel-micro": "^4.2.0",
+    "hel-lib-proxy": "^4.5.1",
+    "hel-micro": "^4.5.1",
     "react": ">=16.8.0",
     "react-app-polyfill": "^3.0.0",
     "react-dom": ">=16.8.0"
   },
   "peerDependencies": {
     "hel-iso": "^4.1.0",
-    "hel-lib-proxy": "^4.2.0",
-    "hel-micro": "^4.2.0",
+    "hel-lib-proxy": "^4.5.1",
+    "hel-micro": "^4.5.1",
     "react": ">=16.8.0",
     "react-app-polyfill": "^3.0.0",
     "react-dom": ">=16.8.0"
